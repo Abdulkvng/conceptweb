@@ -15,7 +15,7 @@ const Hero = () => {
           href="#about"
           className="inline-flex items-center px-6 py-3 bg-gray-800 text-white rounded-full hover:bg-gray-700 transition-colors duration-300 animate-fade-in-delay-2"
         >
-          Learn More <ArrowRight className="ml-2" size={20} />
+           More About Me  <ArrowRight className="ml-2" size={20} />
         </a>
       </div>
     </section>
